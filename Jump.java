@@ -1,4 +1,4 @@
-//Farthest jump leetcode problem
+//Farthest jump leetcode problem.Backtracking solution
 class Jump {
     public boolean canJumpFromPos(int pos,int[] arr){
         if(pos == arr.length-1){
